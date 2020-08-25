@@ -1,0 +1,36 @@
+.main{
+	margin-top: 100px;
+}
+.heading{
+	text-align: center;
+	font-family: sans-serif;
+	margin-top: 60px;
+}
+.section{
+	border: 2px solid;
+	margin: 5px;
+	background-color: gray;
+	/* ma ny change kr k yahan dy dia */
+}
+.section h4{
+	text-align: right;
+	width: 100px;
+	float: right;
+	border-left: 2px solid;
+	border-bottom: 2px solid;
+}
+.title1 h4{
+	background-color: #D59898;
+}
+.title2 h4{
+	background-color: #C14543;
+}
+.title3 h4{
+	background-color: #E5D198
+}
+.section p{
+	padding-top: 50px;
+	padding-left: 10px;
+	/* ap ny yahan bakcground color dia hwa tha or wo sirf p ko background color dy rha tha div ko cover ni kr rha tha */
+}
+
